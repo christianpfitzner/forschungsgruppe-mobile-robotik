@@ -1,9 +1,8 @@
 ---
-title: Abschlussarbeiten
+title: Ausgeschriebene Arbeiten
 
 # Listing view
-# Mögliche Werte: citation, compact, card, showcase
-view: citation
+view: card
 
 # Filteroptionen nach Kategorien
 filter_button:
@@ -16,10 +15,11 @@ filter_button:
   - name: Projektarbeit
     tag: Projektarbeit
 
-# Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
   image: ''
 ---
 
-Hier sind alle betreuten wissenschaftlichen Arbeiten von Prof. Dr. Christian Pfitzner (TH Nürnberg Georg Simon Ohm, Fakultät efi) aufgeführt. Die Arbeiten können nach Typ (Masterarbeit, Bachelorarbeit, Projektarbeit) gefiltert werden.
+Hier sind alle aktuell ausgeschriebenen wissenschaftlichen Arbeiten aufgeführt, die am Lehrstuhl von **Prof. Dr. Christian Pfitzner** (TH Nürnberg Georg Simon Ohm, Fakultät efi) sowie am **TTZ Nürnberger Land** vergeben werden.
+
+Bei Interesse wenden Sie sich bitte direkt an den in der jeweiligen Ausschreibung genannten Ansprechpartner.

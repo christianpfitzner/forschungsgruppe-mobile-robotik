@@ -1,5 +1,4 @@
 ---
-# Seitentitel leer lassen, um den Site-Titel zu verwenden
 title:
 date: 2026-06-08
 type: landing
@@ -8,27 +7,25 @@ sections:
   - block: hero
     content:
       title: |
+        Ausgeschriebene
         Wissenschaftliche Arbeiten
-        Prof. Dr. Christian Pfitzner
       image:
         filename: welcome.jpg
       text: |
         <br>
 
-        Willkommen auf der Seite der betreuten wissenschaftlichen Arbeiten
-        von **Prof. Dr. Christian Pfitzner** an der **TH Nürnberg Georg Simon Ohm**,
-        Fakultät Elektrotechnik, Feinwerktechnik und Informationstechnik (efi),
-        sowie am **TTZ Nürnberger Land**.
+        **Prof. Dr. Christian Pfitzner** · TH Nürnberg Georg Simon Ohm · Fakultät efi · TTZ Nürnberger Land
 
-        Hier finden Sie Projekt-, Bachelor- und Masterarbeiten aus den Bereichen
-        Mobile Robotik, Autonome Systeme und Drohnentechnologie.
+        Hier finden Sie aktuell ausgeschriebene Projekt-, Bachelor- und Masterarbeiten.
+        Bei Interesse senden Sie bitte Ihren Lebenslauf sowie einen Notenausdruck an den
+        jeweiligen Ansprechpartner der Ausschreibung.
 
   - block: collection
     content:
-      title: Aktuelle Abschlussarbeiten
+      title: Aktuelle Ausschreibungen
       subtitle:
       text:
-      count: 5
+      count: 10
       filters:
         author: ''
         category: ''
@@ -39,7 +36,7 @@ sections:
       order: desc
       page_type: publication
     design:
-      view: citation
+      view: card
       columns: '1'
 
   - block: markdown
@@ -47,7 +44,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./publication/" cta_text="Alle Arbeiten ansehen →" %}}
+        {{% cta cta_link="./publication/" cta_text="Alle Ausschreibungen ansehen →" %}}
     design:
       columns: '1'
 ---

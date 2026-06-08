@@ -2,15 +2,6 @@
 #   Gewichtung (weight) bestimmt die Reihenfolge im Menü.
 
 main:
-  - name: Überblick
-    url: tour
-    weight: 10
-  - name: Neuigkeiten
-    url: post
-    weight: 20
-  - name: Personen
-    url: people
-    weight: 30
-  - name: Abschlussarbeiten
+  - name: Ausgeschriebene Arbeiten
     url: publication
-    weight: 50
+    weight: 10
