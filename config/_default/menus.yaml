@@ -1,7 +1,3 @@
-# Navigation Links
-#   Gewichtung (weight) bestimmt die Reihenfolge im Menü.
-
-main:
-  - name: Ausgeschriebene Arbeiten
-    url: publication
-    weight: 10
+# Sprachspezifische Menüs sind in languages.yaml definiert.
+# Diese Datei bleibt leer, um Konflikte zu vermeiden.
+main: []

@@ -1,13 +1,13 @@
 ---
 title: Ausgeschriebene Arbeiten
 
-# Listing view
 view: card
 
-# Filteroptionen nach Kategorien
 filter_button:
   - name: Alle
     tag: '*'
+  - name: M-APR
+    tag: M-APR
   - name: Masterarbeit
     tag: Masterarbeit
   - name: Bachelorarbeit

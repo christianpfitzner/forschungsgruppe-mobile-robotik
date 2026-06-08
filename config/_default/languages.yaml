@@ -1,10 +1,24 @@
 # Languages
-#   Create a section for each of your site's languages.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
-# Standardsprache Deutsch
 de:
   languageCode: de-de
   title: "Wissenschaftliche Arbeiten — Prof. Dr. Christian Pfitzner"
   params:
-    description: "Projekt-, Bachelor- und Masterarbeiten der TH Nürnberg, Fakultät efi, TTZ Nürnberger Land"
+    description: "Ausgeschriebene Projekt-, Bachelor- und Masterarbeiten der TH Nürnberg, Fakultät efi, TTZ Nürnberger Land"
+  menu:
+    main:
+      - name: Ausgeschriebene Arbeiten
+        url: publication
+        weight: 10
+
+en:
+  languageCode: en-us
+  title: "Open Thesis Topics — Prof. Dr. Christian Pfitzner"
+  params:
+    description: "Open bachelor's, master's and project theses at TH Nürnberg, Faculty efi, TTZ Nürnberger Land"
+  menu:
+    main:
+      - name: Open Positions
+        url: publication
+        weight: 10
