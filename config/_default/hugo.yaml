@@ -20,6 +20,7 @@ removePathAccents: true
 ############################
 
 enableGitInfo: false
+buildFuture: true
 summaryLength: 30
 pagination:
   pagerSize: 10
@@ -37,9 +38,9 @@ outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
 imaging:
-  resampleFilter: lanczos
+  resampleFilter: Lanczos
   quality: 75
-  anchor: smart
+  anchor: Smart
 timeout: 600000
 taxonomies:
   tag: tags

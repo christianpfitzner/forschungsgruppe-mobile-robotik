@@ -4,9 +4,9 @@ title: '2R-Roboterarm als Praktikumsversuch – Gravity Compensation und Reinfor
 authors:
   - admin
 
-date: '2026-06-09T00:00:00Z'
+date: '2026-06-08T00:00:00Z'
 doi: ''
-publishDate: '2026-06-09T00:00:00Z'
+publishDate: '2026-06-08T00:00:00Z'
 
 publication_types: ['thesis']
 
