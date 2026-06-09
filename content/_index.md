@@ -7,8 +7,8 @@ sections:
   - block: hero
     content:
       title: |
-        Ausgeschriebene
-        Wissenschaftliche Arbeiten
+        Forschungsgruppe
+        Mobile Robotik
       image:
         filename: robotics-hero.jpg
       text: |

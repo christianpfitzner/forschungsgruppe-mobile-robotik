@@ -3,9 +3,9 @@
 
 de:
   languageCode: de-de
-  title: "Wissenschaftliche Arbeiten — Prof. Dr. Christian Pfitzner"
+  title: "Forschungsgruppe Mobile Robotik — Prof. Dr. Christian Pfitzner"
   params:
-    description: "Ausgeschriebene Projekt-, Bachelor- und Masterarbeiten der TH Nürnberg, Fakultät efi, TTZ Nürnberger Land"
+    description: "Forschungsgruppe Mobile Robotik der TH Nürnberg, Fakultät efi — ausgeschriebene Projekt-, Bachelor- und Masterarbeiten sowie aktuelle Forschungsthemen"
   menu:
     main:
       - name: Ausgeschriebene Arbeiten
@@ -20,9 +20,9 @@ de:
 
 en:
   languageCode: en-us
-  title: "Open Thesis Topics — Prof. Dr. Christian Pfitzner"
+  title: "Mobile Robotics Research Group — Prof. Dr. Christian Pfitzner"
   params:
-    description: "Open bachelor's, master's and project theses at TH Nürnberg, Faculty efi, TTZ Nürnberger Land"
+    description: "Mobile Robotics Research Group at TH Nürnberg, Faculty efi — open bachelor's, master's and project theses and current research topics"
   menu:
     main:
       - name: Open Positions

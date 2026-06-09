@@ -7,8 +7,8 @@ sections:
   - block: hero
     content:
       title: |
-        Open Thesis
-        Topics
+        Mobile Robotics
+        Research Group
       image:
         filename: robotics-hero.jpg
       text: |
