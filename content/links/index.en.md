@@ -20,6 +20,7 @@ sections:
         - [TH Nürnberg — Home](https://www.th-nuernberg.de/)
         - [Faculty of Electrical Engineering, Precision Engineering and Information Technology (efi)](https://www.th-nuernberg.de/fakultaeten/efi/)
         - [Mobile Robotics Lab](https://www.th-nuernberg.de/fakultaeten/efi/forschung/forschungsaktive-labore/mobile-robotik/)
+        - [OHM Innovation Center (OIC)](https://www.th-nuernberg.de/einrichtungen-gesamt/einrichtungen-a-z/ohm-innovation-campus-oic/)
 
         ---
 

@@ -20,6 +20,7 @@ sections:
         - [TH Nürnberg — Startseite](https://www.th-nuernberg.de/)
         - [Fakultät Elektrotechnik Feinwerktechnik Informationstechnik (efi)](https://www.th-nuernberg.de/fakultaeten/efi/)
         - [Labor für Mobile Robotik](https://www.th-nuernberg.de/fakultaeten/efi/forschung/forschungsaktive-labore/mobile-robotik/)
+        - [OHM Innovation Center (OIC)](https://www.th-nuernberg.de/einrichtungen-gesamt/einrichtungen-a-z/ohm-innovation-campus-oic/)
 
         ---
 
