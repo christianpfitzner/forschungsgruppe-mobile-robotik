@@ -10,7 +10,7 @@ sections:
         Mobile Robotics
         Research Group
       image:
-        filename: robotics-hero.jpg
+        filename: robotics-hero.png
       text: |
         <br>
 

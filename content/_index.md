@@ -10,7 +10,7 @@ sections:
         Forschungsgruppe
         Mobile Robotik
       image:
-        filename: robotics-hero.jpg
+        filename: robotics-hero.png
       text: |
         <br>
 
