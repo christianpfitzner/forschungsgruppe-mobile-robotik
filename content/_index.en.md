@@ -47,4 +47,30 @@ sections:
         {{% cta cta_link="./publication/" cta_text="View all open positions →" %}}
     design:
       columns: '1'
+
+  - block: collection
+    content:
+      title: Latest News
+      subtitle:
+      count: 3
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: compact
+      columns: '1'
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./post/" cta_text="View all news →" %}}
+    design:
+      columns: '1'
 ---

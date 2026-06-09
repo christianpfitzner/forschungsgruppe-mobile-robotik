@@ -47,4 +47,30 @@ sections:
         {{% cta cta_link="./publication/" cta_text="Alle Ausschreibungen ansehen →" %}}
     design:
       columns: '1'
+
+  - block: collection
+    content:
+      title: Aktuelles
+      subtitle:
+      count: 3
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: compact
+      columns: '1'
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./post/" cta_text="Alle Neuigkeiten ansehen →" %}}
+    design:
+      columns: '1'
 ---

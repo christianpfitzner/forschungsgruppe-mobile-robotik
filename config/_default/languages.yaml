@@ -11,12 +11,15 @@ de:
       - name: Ausgeschriebene Arbeiten
         url: publication
         weight: 10
+      - name: Aktuelles
+        url: post
+        weight: 15
       - name: Publikationen
         url: https://scholar.google.com/citations?user=0GE5waYAAAAJ
-        weight: 15
+        weight: 20
       - name: Links
         url: links
-        weight: 20
+        weight: 30
 
 en:
   languageCode: en-us
@@ -28,9 +31,12 @@ en:
       - name: Open Positions
         url: publication
         weight: 10
+      - name: News
+        url: post
+        weight: 15
       - name: Publications
         url: https://scholar.google.com/citations?user=0GE5waYAAAAJ
-        weight: 15
+        weight: 20
       - name: Links
         url: links
-        weight: 20
+        weight: 30
