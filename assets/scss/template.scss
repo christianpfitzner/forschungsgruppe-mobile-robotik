@@ -93,7 +93,10 @@ a:not(.btn):not(.navbar-brand):hover {
 
 // Vorschautext in Karten nicht rot einfärben (erbt sonst Link-Farbe)
 .card-body p,
-.card-body .card-text {
+.card-body .card-text,
+.article-description,
+.card p,
+.card .summary {
   color: #333 !important;
 }
 
