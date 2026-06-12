@@ -1,7 +1,7 @@
 ---
 title: Ausgeschriebene Arbeiten
 
-view: card
+view: compact
 
 filter_button:
   - name: Alle
