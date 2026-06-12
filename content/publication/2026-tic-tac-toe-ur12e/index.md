@@ -10,7 +10,7 @@ publishDate: '2026-06-12T00:00:00Z'
 
 publication_types: ['thesis']
 
-publication: "Projektarbeit, TH Nürnberg — TTZ Nürnberger Land"
+publication: "Projekt- oder Bachelorarbeit, TH Nürnberg — TTZ Nürnberger Land"
 publication_short: "TTZ Nürnberger Land"
 
 abstract: |
@@ -29,7 +29,7 @@ abstract: |
 
   Auf der Softwareseite sind die Bildverarbeitung zur Erkennung des Spielfeldes und der
   Spielsteine, eine einfache Spiellogik (z. B. Minimax) sowie die Ansteuerung des UR12e
-  über die vorhandenen Schnittstellen (z. B. RTDE, ROS oder URScript) zu implementieren.
+  über die vorhandenen Schnittstellen (z. B. ROS oder URScript) zu implementieren.
   Besonderes Augenmerk gilt der funktionalen Sicherheit im kollaborativen Betrieb, damit
   ein gefahrloses Spielen direkt neben dem Menschen möglich ist.
 
@@ -51,9 +51,11 @@ tags:
   - Schach
   - TTZ Nürnberger Land
   - Demonstrator
+  - Bachelorarbeit
   - Projektarbeit
 
 categories:
+  - Bachelorarbeit
   - Projektarbeit
 
 featured: true
@@ -99,7 +101,7 @@ Mensch-Roboter-Interaktion praktisch zu erproben.
 - Erkennung von Spielende, Sieg, Niederlage und Unentschieden
 
 **Roboteransteuerung**
-- Ansteuerung des UR12e über vorhandene Schnittstellen (RTDE, ROS oder URScript)
+- Ansteuerung des UR12e über vorhandene Schnittstellen (ROS oder URScript)
 - Greifen und sicheres Platzieren der Spielsteine
 - Funktionale Sicherheit im kollaborativen Betrieb (Kraft-/Geschwindigkeitsbegrenzung)
 
@@ -115,8 +117,8 @@ Mensch-Roboter-Interaktion praktisch zu erproben.
 - Interesse an Bildverarbeitung, Spiellogik und Mensch-Roboter-Interaktion
 - Freude an praktischer Arbeit mit realer Roboterhardware
 
-Das Thema wird als **Projektarbeit** ausgeschrieben und kann bei guter Eignung als Grundlage
-für aufbauende Arbeiten (z. B. Erweiterung auf Schach) dienen.
+Das Thema wird als **Projekt- oder Bachelorarbeit** ausgeschrieben und kann bei guter Eignung
+als Grundlage für aufbauende Arbeiten (z. B. Erweiterung auf Schach) dienen.
 
 ## Betreuung
 

@@ -10,7 +10,7 @@ publishDate: '2026-06-12T00:00:00Z'
 
 publication_types: ['thesis']
 
-publication: "Project Thesis, TH Nürnberg — TTZ Nürnberger Land"
+publication: "Project or Bachelor's Thesis, TH Nürnberg — TTZ Nürnberger Land"
 publication_short: "TTZ Nürnberger Land"
 
 abstract: |
@@ -27,7 +27,7 @@ abstract: |
 
   On the software side, the work involves image processing to detect the board and the game
   pieces, a simple game logic (e.g. minimax) and control of the UR12e via its existing
-  interfaces (e.g. RTDE, ROS or URScript). Particular attention is paid to functional safety
+  interfaces (e.g. ROS or URScript). Particular attention is paid to functional safety
   in collaborative operation, so that safe play right next to a person is possible.
 
   If the demo proves convincing, the system can be conceptually extended to more demanding
@@ -48,9 +48,11 @@ tags:
   - Chess
   - TTZ Nürnberger Land
   - Demonstrator
+  - Bachelorarbeit
   - Projektarbeit
 
 categories:
+  - Bachelorarbeit
   - Projektarbeit
 
 featured: true
@@ -96,7 +98,7 @@ practice.
 - Detection of game end, win, loss and draw
 
 **Robot Control**
-- Control of the UR12e via its existing interfaces (RTDE, ROS or URScript)
+- Control of the UR12e via its existing interfaces (ROS or URScript)
 - Grasping and safely placing the game pieces
 - Functional safety in collaborative operation (force/speed limiting)
 
@@ -112,8 +114,8 @@ practice.
 - Interest in computer vision, game logic and human-robot interaction
 - Enthusiasm for hands-on work with real robot hardware
 
-This topic is offered as a **project thesis** and, given a good fit, can serve as a foundation
-for follow-up work (e.g. extension to chess).
+This topic is offered as a **project or bachelor's thesis** and, given a good fit, can serve as
+a foundation for follow-up work (e.g. extension to chess).
 
 ## Supervision
 
