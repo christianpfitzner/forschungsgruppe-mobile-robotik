@@ -109,7 +109,13 @@ a[class*="card"] h1 a, a[class*="card"] h2 a, a[class*="card"] h3 a {
 .card-body .card-text,
 .card .summary,
 .card .abstract,
-.page-body p {
+.page-body p,
+// Compact-/Card-Listenansicht: Teasertext (im Link) schwarz statt rot
+.summary-link,
+.summary-link .article-style,
+.summary-link .article-style p,
+.stream-item .article-style,
+.stream-item .article-style p {
   color: #333 !important;
 }
 
