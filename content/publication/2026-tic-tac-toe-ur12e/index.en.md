@@ -67,7 +67,7 @@ url_source: ''
 url_video: ''
 
 image:
-  caption: ''
+  caption: 'UR robot arm playing against a human — Tic-Tac-Toe today, chess as an outlook'
   focal_point: 'Smart'
   preview_only: false
 
@@ -119,8 +119,9 @@ a foundation for follow-up work (e.g. extension to chess).
 
 ## Supervision
 
-| Role       | Name                         | E-Mail                                 |
-|------------|------------------------------|----------------------------------------|
-| Supervisor | Prof. Dr. Christian Pfitzner | christian.pfitzner@th-nuernberg.de    |
+| Role          | Name                         | E-Mail                                 |
+|---------------|------------------------------|----------------------------------------|
+| Supervisor    | Prof. Dr. Christian Pfitzner | christian.pfitzner@th-nuernberg.de    |
+| Co-Supervisor | M. Sc. Patrick Fußy          | patrick.fussy@th-nuernberg.de         |
 
 **Location:** TTZ Nürnberger Land / TH Nürnberg Georg Simon Ohm

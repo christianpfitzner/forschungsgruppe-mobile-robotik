@@ -70,7 +70,7 @@ url_source: ''
 url_video: ''
 
 image:
-  caption: ''
+  caption: 'UR-Roboterarm beim Spiel gegen den Menschen — Tic-Tac-Toe heute, Schach als Ausblick'
   focal_point: 'Smart'
   preview_only: false
 
@@ -122,8 +122,9 @@ als Grundlage für aufbauende Arbeiten (z. B. Erweiterung auf Schach) dienen.
 
 ## Betreuung
 
-| Rolle    | Name                         | E-Mail                                 |
-|----------|------------------------------|----------------------------------------|
-| Betreuer | Prof. Dr. Christian Pfitzner | christian.pfitzner@th-nuernberg.de    |
+| Rolle       | Name                         | E-Mail                                 |
+|-------------|------------------------------|----------------------------------------|
+| Betreuer    | Prof. Dr. Christian Pfitzner | christian.pfitzner@th-nuernberg.de    |
+| Co-Betreuer | M. Sc. Patrick Fußy          | patrick.fussy@th-nuernberg.de         |
 
 **Ort:** TTZ Nürnberger Land / TH Nürnberg Georg Simon Ohm
