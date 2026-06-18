@@ -9,6 +9,7 @@ doi: ''
 publishDate: '2026-06-08T00:00:00Z'
 
 publication_types: ['thesis']
+status: 'offen'
 
 publication: "M-APR (3 Semester), ab WiSe 2026/2027 — TTZ Nürnberger Land / TH Nürnberg"
 publication_short: "TTZ Nürnberger Land"

@@ -9,6 +9,7 @@ doi: ''
 publishDate: '2026-06-15T00:00:00Z'
 
 publication_types: ['thesis']
+status: 'offen'
 
 publication: "Projekt- oder Bachelorarbeit, TH Nürnberg — Labor für mobile Robotik, AerodrOHM"
 publication_short: "Labor für mobile Robotik"

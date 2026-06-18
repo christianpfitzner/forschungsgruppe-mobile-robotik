@@ -1,0 +1,29 @@
+// Override this file to add your own SCSS styling.
+
+.status-badge {
+  display: inline-block;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+.status-badge-offen {
+  background-color: #2e7d32;
+  color: #fff;
+}
+
+.status-badge-reserviert {
+  background-color: #f9a825;
+  color: #212121;
+}
+
+.status-badge-in-bearbeitung {
+  background-color: #1565c0;
+  color: #fff;
+}
+
+.status-badge-abgeschlossen {
+  background-color: #757575;
+  color: #fff;
+}

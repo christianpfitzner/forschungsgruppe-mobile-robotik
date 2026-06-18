@@ -9,6 +9,7 @@ doi: ''
 publishDate: '2026-06-12T00:00:00Z'
 
 publication_types: ['thesis']
+status: 'offen'
 
 publication: "Project or Bachelor's Thesis, TH Nürnberg — TTZ Nürnberger Land"
 publication_short: "TTZ Nürnberger Land"

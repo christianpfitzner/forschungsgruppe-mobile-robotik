@@ -5,6 +5,7 @@ authors:
 date: '2026-06-12T00:00:00Z'
 publishDate: '2026-06-12T00:00:00Z'
 publication_types: ['thesis']
+status: 'offen'
 publication: "Projektarbeit, Labor für mobile Robotik"
 publication_short: "Labor für mobile Robotik"
 abstract: |

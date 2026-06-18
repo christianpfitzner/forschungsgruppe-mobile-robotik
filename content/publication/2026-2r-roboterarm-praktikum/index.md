@@ -9,6 +9,7 @@ doi: ''
 publishDate: '2026-06-08T00:00:00Z'
 
 publication_types: ['thesis']
+status: 'offen'
 
 publication: "Projekt- oder Masterarbeit, TH Nürnberg — Labor für mobile Robotik"
 publication_short: "Labor für mobile Robotik"

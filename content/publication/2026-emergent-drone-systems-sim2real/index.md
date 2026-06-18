@@ -9,6 +9,7 @@ doi: ''
 publishDate: '2026-06-09T00:00:00Z'
 
 publication_types: ['thesis']
+status: 'offen'
 
 publication: "Projekt-, Bachelor- oder Masterarbeit, TH Nürnberg — OIC / AerodrOHM"
 publication_short: "OIC / AerodrOHM"
