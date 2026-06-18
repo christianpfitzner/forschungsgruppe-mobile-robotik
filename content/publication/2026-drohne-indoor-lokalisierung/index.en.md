@@ -9,7 +9,7 @@ doi: ''
 publishDate: '2026-06-15T00:00:00Z'
 
 publication_types: ['thesis']
-status: 'offen'
+status: 'reserviert'
 
 publication: "Project or Bachelor's Thesis, TH Nürnberg — Mobile Robotics Lab, AerodrOHM"
 publication_short: "Mobile Robotics Lab"
