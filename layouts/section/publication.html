@@ -27,6 +27,28 @@
         (dict "value" "abgeschlossen" "de" "Abgeschlossen" "en" "Completed")
       }}
 
+      {{/* Group pages by status (offen, reserviert, in-bearbeitung, abgeschlossen), newest first within each group. */}}
+      {{ $offenPages := slice }}
+      {{ $reserviertPages := slice }}
+      {{ $inBearbeitungPages := slice }}
+      {{ $abgeschlossenPages := slice }}
+      {{ range .Pages.ByDate.Reverse }}
+        {{ $s := .Params.status | default "offen" }}
+        {{ if eq $s "reserviert" }}
+          {{ $reserviertPages = $reserviertPages | append . }}
+        {{ else if eq $s "in-bearbeitung" }}
+          {{ $inBearbeitungPages = $inBearbeitungPages | append . }}
+        {{ else if eq $s "abgeschlossen" }}
+          {{ $abgeschlossenPages = $abgeschlossenPages | append . }}
+        {{ else }}
+          {{ $offenPages = $offenPages | append . }}
+        {{ end }}
+      {{ end }}
+      {{ $sortedPages := $offenPages }}
+      {{ if $reserviertPages }}{{ $sortedPages = $sortedPages | append $reserviertPages }}{{ end }}
+      {{ if $inBearbeitungPages }}{{ $sortedPages = $sortedPages | append $inBearbeitungPages }}{{ end }}
+      {{ if $abgeschlossenPages }}{{ $sortedPages = $sortedPages | append $abgeschlossenPages }}{{ end }}
+
       <div class="form-row mb-4">
         <div class="col-auto">
           <input type="search" class="filter-search form-control form-control-sm" placeholder="{{ i18n "search_placeholder" }}" autocapitalize="off"
@@ -66,7 +88,7 @@
       </div>
 
       <div id="container-publications">
-        {{ range $index, $item := .Pages.ByDate.Reverse }}
+        {{ range $index, $item := $sortedPages }}
 
         {{ if .Params.publication_types }}
           {{ $.Scratch.Set "pubtype" (index .Params.publication_types 0) }}
