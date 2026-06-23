@@ -5,7 +5,7 @@ authors:
 date: '2026-06-12T00:00:00Z'
 publishDate: '2026-06-12T00:00:00Z'
 publication_types: ['thesis']
-status: 'offen'
+status: 'reserviert'
 publication: "Project Work, Mobile Robotics Lab"
 publication_short: "Mobile Robotics Lab"
 abstract: |
