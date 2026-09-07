@@ -62,7 +62,7 @@ url_source: ''
 url_video: ''
 
 image:
-  caption: ''
+  caption: 'Montage eines SFP-Steckers in der Simulation während der „AI for Industry Challenge“'
   focal_point: 'Smart'
   preview_only: false
 
@@ -95,9 +95,10 @@ Das Thema eignet sich für eine **Bachelor-, Projekt- oder Masterarbeit** und ka
 
 ## Betreuung
 
-| Rolle    | Name                         | E-Mail                              |
-|----------|------------------------------|-------------------------------------|
-| Betreuer | Prof. Dr. Christian Pfitzner | christian.pfitzner@th-nuernberg.de  |
+| Rolle       | Name                         | E-Mail                              |
+|-------------|------------------------------|-------------------------------------|
+| Betreuer    | Prof. Dr. Christian Pfitzner | christian.pfitzner@th-nuernberg.de  |
+| Co-Betreuer | M. Sc. Patrick Fußy          | patrick.fussy@th-nuernberg.de       |
 
 **Ort:** TTZ Nürnberger Land, Martin-Luther-Straße 18, Lauf an der Pegnitz
 

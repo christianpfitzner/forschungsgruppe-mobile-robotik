@@ -60,7 +60,7 @@ url_source: ''
 url_video: ''
 
 image:
-  caption: ''
+  caption: 'Assembly of an SFP connector in simulation during the “AI for Industry Challenge”'
   focal_point: 'Smart'
   preview_only: false
 
@@ -93,9 +93,10 @@ This topic is suitable for a **bachelor's, project or master's thesis** and can 
 
 ## Supervision
 
-| Role       | Name                         | E-Mail                              |
-|------------|------------------------------|-------------------------------------|
-| Supervisor | Prof. Dr. Christian Pfitzner | christian.pfitzner@th-nuernberg.de  |
+| Role          | Name                         | E-Mail                              |
+|---------------|------------------------------|-------------------------------------|
+| Supervisor    | Prof. Dr. Christian Pfitzner | christian.pfitzner@th-nuernberg.de  |
+| Co-Supervisor | M. Sc. Patrick Fußy          | patrick.fussy@th-nuernberg.de       |
 
 **Location:** TTZ Nürnberger Land, Martin-Luther-Straße 18, Lauf an der Pegnitz
 
